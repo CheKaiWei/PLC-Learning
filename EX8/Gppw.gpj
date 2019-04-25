@@ -1,0 +1,5 @@
+[App]
+	Project:
+		CpuType	TYPE_STRING	"FX2N(C)"
+		ProjectComment	TYPE_STRING	"EX8"
+		AutoSave	TYPE_BOOL	FALSE
